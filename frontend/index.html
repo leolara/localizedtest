@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Test project - Courses listings</title>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons"
+    />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/vuetify@1.0.18/dist/vuetify.min.css"
+    />
+    <script src="https://unpkg.com/babel-polyfill/dist/polyfill.min.js"></script>
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/vuetify@1.0.18/dist/vuetify.min.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <v-app id="inspire">
+        <div class="px-2">
+        <img src="logo-black.png" />
+          <h2>
+             Test project - Courses listings
+          </h2>
+          <v-text-field
+            label="search by course name"
+            v-model="searchName"
+          ></v-text-field>
+          <v-text-field
+            label="search by professor"
+            v-model="searchProfessor"
+          ></v-text-field>
+          <v-select
+              v-model="searchTime"
+              :items="timesOptions"
+              label="search by Time"
+            ></v-select>
+
+          <v-data-table
+            :headers="headers"
+            :items="items"
+            :pagination.sync="pagination"
+            :total-items="totalItems"
+            :loading="loading"
+            class="elevation-5"
+          >
+            <template slot="items" slot-scope="props">
+              <td>{{ props.item.name }}</td>
+              <td>{{ props.item.professor }}</td>
+              <td class="text-xs-right">{{ props.item.cost }}</td>
+              <td class="text-xs-right">{{ props.item.times }}</td>
+            </template>
+          </v-data-table>
+        </div>
+      </v-app>
+    </div>
+
+    <script src="index.js"></script>
+  </body>
+</html>

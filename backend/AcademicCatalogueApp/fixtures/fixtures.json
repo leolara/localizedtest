@@ -1,0 +1,1577 @@
+[
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 0,
+        "fields": {
+            "name": "Electricity and Magnetism ",
+            "professor": "Jason Watt",
+            "cost": 1041317
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 1,
+        "fields": {
+            "name": "Introduction to Artificial Intelligence ",
+            "professor": "Caroline Lusher",
+            "cost": 1671098
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 2,
+        "fields": {
+            "name": " English Composition I ",
+            "professor": "Avis Watkins",
+            "cost": 691695
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 6,
+        "fields": {
+            "name": "History 2 ",
+            "professor": "Dana Scruton",
+            "cost": 637119
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 7,
+        "fields": {
+            "name": " Finance ",
+            "professor": "Cynthia Atkins",
+            "cost": 1006746
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 14,
+        "fields": {
+            "name": " Online Games: Literature, New Media, and Narrative ",
+            "professor": "Rhoda MacAndrew",
+            "cost": 1033284
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 17,
+        "fields": {
+            "name": " Jazz Improvisation ",
+            "professor": "Persis Longfield",
+            "cost": 974593
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 19,
+        "fields": {
+            "name": " Know Thyself ",
+            "professor": "Harry Douch",
+            "cost": 1222713
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 20,
+        "fields": {
+            "name": " Building an Information Risk Management Toolkit ",
+            "professor": "Lana Winter",
+            "cost": 1359459
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 23,
+        "fields": {
+            "name": "Introduction to Solid State Chemistry ",
+            "professor": "Corrie Plumb",
+            "cost": 1586809
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 24,
+        "fields": {
+            "name": " Women and the Civil Rights Movement ",
+            "professor": "Pearl Langford",
+            "cost": 1111658
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 32,
+        "fields": {
+            "name": " Grow to Greatness: Smart Growth for Private Businesses, Part I ",
+            "professor": "Delia Sorley",
+            "cost": 1520732
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 33,
+        "fields": {
+            "name": " Vaccines ",
+            "professor": "Frank Whitaker",
+            "cost": 238453
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 36,
+        "fields": {
+            "name": " TechniCity ",
+            "professor": "Frederick Arbour",
+            "cost": 1968166
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 37,
+        "fields": {
+            "name": "The Challenges of Global Poverty ",
+            "professor": "Dana Winterburn",
+            "cost": 1810194
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 38,
+        "fields": {
+            "name": " Pensamiento Cient\u00edfico ",
+            "professor": "Ethel Whyte",
+            "cost": 1536527
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 40,
+        "fields": {
+            "name": "Introduction to Computer Science and Programming ",
+            "professor": "Geoffrey Cox",
+            "cost": 1170386
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 47,
+        "fields": {
+            "name": " Technology Entrepreneurship ",
+            "professor": "Kierra McGlothlin",
+            "cost": 160985
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 48,
+        "fields": {
+            "name": " Experimental Genome Science ",
+            "professor": "Rupert Anstead",
+            "cost": 1832507
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 51,
+        "fields": {
+            "name": " M102: MongoDB for DBAs ",
+            "professor": "Stella Upton",
+            "cost": 1287820
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 60,
+        "fields": {
+            "name": " Organizational Analysis Self-Paced ",
+            "professor": "Lauren Podmore",
+            "cost": 770981
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 63,
+        "fields": {
+            "name": " Vaccine Trials: Methods and Best Practices ",
+            "professor": "Anna Ratliff",
+            "cost": 429607
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 75,
+        "fields": {
+            "name": " Visualizing Algebra ",
+            "professor": "Eleanor Heron",
+            "cost": 363807
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 76,
+        "fields": {
+            "name": " Foundations of Business Strategy ",
+            "professor": "Samantha Brooks",
+            "cost": 1993236
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 78,
+        "fields": {
+            "name": " Improving Your Spanish Pronunciation ",
+            "professor": "Claudia Welbourn",
+            "cost": 1501954
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 79,
+        "fields": {
+            "name": " Climate Change ",
+            "professor": "Lynnette Dean",
+            "cost": 1201742
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 81,
+        "fields": {
+            "name": " HTML5 Game Development ",
+            "professor": "Jesse McCann",
+            "cost": 1226336
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 84,
+        "fields": {
+            "name": " Artificial Intelligence Planning ",
+            "professor": "Tobias Nicol",
+            "cost": 1337897
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 88,
+        "fields": {
+            "name": " Reading for Understanding: Literacy for Learning in the 21st Century ",
+            "professor": "Chandos Richard",
+            "cost": 475007
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 92,
+        "fields": {
+            "name": " Global Sustainable Energy: Past, Present and Future ",
+            "professor": "Eileen Wordsworth",
+            "cost": 1115880
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 100,
+        "fields": {
+            "name": " Observing and Analysing Performance in Sport ",
+            "professor": "Harold Almond",
+            "cost": 1567111
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 106,
+        "fields": {
+            "name": " History of Ancient Civilization ",
+            "professor": "Jeff Lillywhite",
+            "cost": 277755
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 110,
+        "fields": {
+            "name": " Fundamentals of Human Nutrition ",
+            "professor": "Addison Black",
+            "cost": 1528413
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 111,
+        "fields": {
+            "name": " Aboriginal Worldviews and Education ",
+            "professor": "Aubrey Grist",
+            "cost": 1067683
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 117,
+        "fields": {
+            "name": " Web Intelligence and Big Data ",
+            "professor": "Angie Gawley",
+            "cost": 647807
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 120,
+        "fields": {
+            "name": " Medical Neuroscience ",
+            "professor": "Maurice Stone",
+            "cost": 1836936
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 122,
+        "fields": {
+            "name": " Learn to Program: The Fundamentals ",
+            "professor": "Blanche Snowden",
+            "cost": 1870590
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 127,
+        "fields": {
+            "name": " Development Economics ",
+            "professor": "Gregory Shepherd",
+            "cost": 1625054
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 129,
+        "fields": {
+            "name": " VLSI CAD:  Logic to Layout ",
+            "professor": "Dana Fleck",
+            "cost": 400858
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 130,
+        "fields": {
+            "name": " Fantasy and Science Fiction: The Human Mind, Our Modern World ",
+            "professor": "Douglas Kershaw",
+            "cost": 1317831
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 132,
+        "fields": {
+            "name": " Investigating Film Noir ",
+            "professor": "Jemima Mollison",
+            "cost": 1127776
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 133,
+        "fields": {
+            "name": " Artificial Intelligence for Robotics ",
+            "professor": "Richie Appleyard",
+            "cost": 559819
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 134,
+        "fields": {
+            "name": " Basic Electrical Circuits ",
+            "professor": "Sylvia Greening",
+            "cost": 609565
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 137,
+        "fields": {
+            "name": " Applied Cryptography ",
+            "professor": "June Jackson",
+            "cost": 1757735
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 138,
+        "fields": {
+            "name": " Basic Arithmetic ",
+            "professor": "Ida Voyle",
+            "cost": 1230737
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 140,
+        "fields": {
+            "name": "Introduction to Biology - The Secret of Life ",
+            "professor": "Miles Veal",
+            "cost": 668402
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 142,
+        "fields": {
+            "name": "Circuits and Electronics ",
+            "professor": "Eunice Diprose",
+            "cost": 530912
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 144,
+        "fields": {
+            "name": " Community Change in Public Health ",
+            "professor": "Colby Goring",
+            "cost": 1809540
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 145,
+        "fields": {
+            "name": " Rationing and Allocating Scarce Medical Resources ",
+            "professor": "Viola Danson",
+            "cost": 1619722
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 146,
+        "fields": {
+            "name": " M101J: MongoDB for Java Developers ",
+            "professor": "Shawn Parker",
+            "cost": 1087916
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 147,
+        "fields": {
+            "name": " Information Theory ",
+            "professor": "Gwenda Quintal",
+            "cost": 368634
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 153,
+        "fields": {
+            "name": " Bioelectricity: A Quantitative Approach ",
+            "professor": "Lawton Glover",
+            "cost": 1899948
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 165,
+        "fields": {
+            "name": " Astrobiology and the Search for Extraterrestrial Life ",
+            "professor": "Albert Bawden",
+            "cost": 1763767
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 166,
+        "fields": {
+            "name": " Measuring Causal Effects in the Social Sciences ",
+            "professor": "Jeb Brabin",
+            "cost": 1164580
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 170,
+        "fields": {
+            "name": " Model Thinking ",
+            "professor": "Richeldis Wellington",
+            "cost": 875556
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 173,
+        "fields": {
+            "name": " Basic Behavioral Neurology ",
+            "professor": "Bramwell Record",
+            "cost": 436734
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 174,
+        "fields": {
+            "name": " Image and video processing: From Mars to Hollywood with a stop at the hospital ",
+            "professor": "Garth Rawlings",
+            "cost": 667603
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 175,
+        "fields": {
+            "name": " Design: Creation of Artifacts in Society ",
+            "professor": "Zelda Dashwood",
+            "cost": 1039848
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 178,
+        "fields": {
+            "name": " Drugs and the Brain ",
+            "professor": "Elizabeth Laslett",
+            "cost": 1435180
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 181,
+        "fields": {
+            "name": " Surviving Disruptive Technologies ",
+            "professor": "Vivian Farlow",
+            "cost": 1197686
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 185,
+        "fields": {
+            "name": " Mathematical Biostatistics Boot Camp 1 ",
+            "professor": "Harriet Hardwicke",
+            "cost": 203837
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 189,
+        "fields": {
+            "name": " Leading Strategic Innovation in Organizations ",
+            "professor": "Coloman Dimbleby",
+            "cost": 1450734
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.course",
+        "pk": 190,
+        "fields": {
+            "name": " Fundamentals of Pharmacology ",
+            "professor": "Alvina Massey",
+            "cost": 1432359
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13127,
+        "fields": {
+            "hour": "10:00",
+            "course": 0
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13128,
+        "fields": {
+            "hour": "15:00",
+            "course": 0
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13129,
+        "fields": {
+            "hour": "08:00",
+            "course": 1
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13130,
+        "fields": {
+            "hour": "13:00",
+            "course": 1
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13131,
+        "fields": {
+            "hour": "11:00",
+            "course": 2
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13132,
+        "fields": {
+            "hour": "14:00",
+            "course": 2
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13133,
+        "fields": {
+            "hour": "08:00",
+            "course": 6
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13134,
+        "fields": {
+            "hour": "14:00",
+            "course": 6
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13135,
+        "fields": {
+            "hour": "11:00",
+            "course": 7
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13136,
+        "fields": {
+            "hour": "15:00",
+            "course": 7
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13137,
+        "fields": {
+            "hour": "09:00",
+            "course": 14
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13138,
+        "fields": {
+            "hour": "15:00",
+            "course": 14
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13139,
+        "fields": {
+            "hour": "11:00",
+            "course": 17
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13140,
+        "fields": {
+            "hour": "16:00",
+            "course": 17
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13141,
+        "fields": {
+            "hour": "10:00",
+            "course": 19
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13142,
+        "fields": {
+            "hour": "14:00",
+            "course": 19
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13143,
+        "fields": {
+            "hour": "08:00",
+            "course": 20
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13144,
+        "fields": {
+            "hour": "16:00",
+            "course": 20
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13145,
+        "fields": {
+            "hour": "10:00",
+            "course": 23
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13146,
+        "fields": {
+            "hour": "14:00",
+            "course": 23
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13147,
+        "fields": {
+            "hour": "10:00",
+            "course": 24
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13148,
+        "fields": {
+            "hour": "13:00",
+            "course": 24
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13149,
+        "fields": {
+            "hour": "11:00",
+            "course": 32
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13150,
+        "fields": {
+            "hour": "16:00",
+            "course": 32
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13151,
+        "fields": {
+            "hour": "08:00",
+            "course": 33
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13152,
+        "fields": {
+            "hour": "16:00",
+            "course": 33
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13153,
+        "fields": {
+            "hour": "11:00",
+            "course": 36
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13154,
+        "fields": {
+            "hour": "13:00",
+            "course": 36
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13155,
+        "fields": {
+            "hour": "09:00",
+            "course": 37
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13156,
+        "fields": {
+            "hour": "13:00",
+            "course": 37
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13157,
+        "fields": {
+            "hour": "10:00",
+            "course": 38
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13158,
+        "fields": {
+            "hour": "15:00",
+            "course": 38
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13159,
+        "fields": {
+            "hour": "09:00",
+            "course": 40
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13160,
+        "fields": {
+            "hour": "14:00",
+            "course": 40
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13161,
+        "fields": {
+            "hour": "10:00",
+            "course": 47
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13162,
+        "fields": {
+            "hour": "13:00",
+            "course": 47
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13163,
+        "fields": {
+            "hour": "09:00",
+            "course": 48
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13164,
+        "fields": {
+            "hour": "16:00",
+            "course": 48
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13165,
+        "fields": {
+            "hour": "10:00",
+            "course": 51
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13166,
+        "fields": {
+            "hour": "16:00",
+            "course": 51
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13167,
+        "fields": {
+            "hour": "10:00",
+            "course": 60
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13168,
+        "fields": {
+            "hour": "16:00",
+            "course": 60
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13169,
+        "fields": {
+            "hour": "08:00",
+            "course": 63
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13170,
+        "fields": {
+            "hour": "13:00",
+            "course": 63
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13171,
+        "fields": {
+            "hour": "08:00",
+            "course": 75
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13172,
+        "fields": {
+            "hour": "16:00",
+            "course": 75
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13173,
+        "fields": {
+            "hour": "10:00",
+            "course": 76
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13174,
+        "fields": {
+            "hour": "13:00",
+            "course": 76
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13175,
+        "fields": {
+            "hour": "09:00",
+            "course": 78
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13176,
+        "fields": {
+            "hour": "13:00",
+            "course": 78
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13177,
+        "fields": {
+            "hour": "09:00",
+            "course": 79
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13178,
+        "fields": {
+            "hour": "14:00",
+            "course": 79
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13179,
+        "fields": {
+            "hour": "08:00",
+            "course": 81
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13180,
+        "fields": {
+            "hour": "13:00",
+            "course": 81
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13181,
+        "fields": {
+            "hour": "08:00",
+            "course": 84
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13182,
+        "fields": {
+            "hour": "15:00",
+            "course": 84
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13183,
+        "fields": {
+            "hour": "10:00",
+            "course": 88
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13184,
+        "fields": {
+            "hour": "16:00",
+            "course": 88
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13185,
+        "fields": {
+            "hour": "09:00",
+            "course": 92
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13186,
+        "fields": {
+            "hour": "15:00",
+            "course": 92
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13187,
+        "fields": {
+            "hour": "08:00",
+            "course": 100
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13188,
+        "fields": {
+            "hour": "15:00",
+            "course": 100
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13189,
+        "fields": {
+            "hour": "09:00",
+            "course": 106
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13190,
+        "fields": {
+            "hour": "15:00",
+            "course": 106
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13191,
+        "fields": {
+            "hour": "08:00",
+            "course": 110
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13192,
+        "fields": {
+            "hour": "15:00",
+            "course": 110
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13193,
+        "fields": {
+            "hour": "10:00",
+            "course": 111
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13194,
+        "fields": {
+            "hour": "15:00",
+            "course": 111
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13195,
+        "fields": {
+            "hour": "10:00",
+            "course": 117
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13196,
+        "fields": {
+            "hour": "14:00",
+            "course": 117
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13197,
+        "fields": {
+            "hour": "08:00",
+            "course": 120
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13198,
+        "fields": {
+            "hour": "13:00",
+            "course": 120
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13199,
+        "fields": {
+            "hour": "11:00",
+            "course": 122
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13200,
+        "fields": {
+            "hour": "15:00",
+            "course": 122
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13201,
+        "fields": {
+            "hour": "10:00",
+            "course": 127
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13202,
+        "fields": {
+            "hour": "13:00",
+            "course": 127
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13203,
+        "fields": {
+            "hour": "08:00",
+            "course": 129
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13204,
+        "fields": {
+            "hour": "16:00",
+            "course": 129
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13205,
+        "fields": {
+            "hour": "10:00",
+            "course": 130
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13206,
+        "fields": {
+            "hour": "15:00",
+            "course": 130
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13207,
+        "fields": {
+            "hour": "10:00",
+            "course": 132
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13208,
+        "fields": {
+            "hour": "14:00",
+            "course": 132
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13209,
+        "fields": {
+            "hour": "09:00",
+            "course": 133
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13210,
+        "fields": {
+            "hour": "16:00",
+            "course": 133
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13211,
+        "fields": {
+            "hour": "11:00",
+            "course": 134
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13212,
+        "fields": {
+            "hour": "16:00",
+            "course": 134
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13213,
+        "fields": {
+            "hour": "08:00",
+            "course": 137
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13214,
+        "fields": {
+            "hour": "14:00",
+            "course": 137
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13215,
+        "fields": {
+            "hour": "09:00",
+            "course": 138
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13216,
+        "fields": {
+            "hour": "16:00",
+            "course": 138
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13217,
+        "fields": {
+            "hour": "09:00",
+            "course": 140
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13218,
+        "fields": {
+            "hour": "14:00",
+            "course": 140
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13219,
+        "fields": {
+            "hour": "11:00",
+            "course": 142
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13220,
+        "fields": {
+            "hour": "13:00",
+            "course": 142
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13221,
+        "fields": {
+            "hour": "11:00",
+            "course": 144
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13222,
+        "fields": {
+            "hour": "16:00",
+            "course": 144
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13223,
+        "fields": {
+            "hour": "11:00",
+            "course": 145
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13224,
+        "fields": {
+            "hour": "15:00",
+            "course": 145
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13225,
+        "fields": {
+            "hour": "08:00",
+            "course": 146
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13226,
+        "fields": {
+            "hour": "16:00",
+            "course": 146
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13227,
+        "fields": {
+            "hour": "10:00",
+            "course": 147
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13228,
+        "fields": {
+            "hour": "15:00",
+            "course": 147
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13229,
+        "fields": {
+            "hour": "09:00",
+            "course": 153
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13230,
+        "fields": {
+            "hour": "15:00",
+            "course": 153
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13231,
+        "fields": {
+            "hour": "08:00",
+            "course": 165
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13232,
+        "fields": {
+            "hour": "14:00",
+            "course": 165
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13233,
+        "fields": {
+            "hour": "08:00",
+            "course": 166
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13234,
+        "fields": {
+            "hour": "13:00",
+            "course": 166
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13235,
+        "fields": {
+            "hour": "09:00",
+            "course": 170
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13236,
+        "fields": {
+            "hour": "16:00",
+            "course": 170
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13237,
+        "fields": {
+            "hour": "09:00",
+            "course": 173
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13238,
+        "fields": {
+            "hour": "16:00",
+            "course": 173
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13239,
+        "fields": {
+            "hour": "11:00",
+            "course": 174
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13240,
+        "fields": {
+            "hour": "13:00",
+            "course": 174
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13241,
+        "fields": {
+            "hour": "09:00",
+            "course": 175
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13242,
+        "fields": {
+            "hour": "16:00",
+            "course": 175
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13243,
+        "fields": {
+            "hour": "11:00",
+            "course": 178
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13244,
+        "fields": {
+            "hour": "14:00",
+            "course": 178
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13245,
+        "fields": {
+            "hour": "11:00",
+            "course": 181
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13246,
+        "fields": {
+            "hour": "14:00",
+            "course": 181
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13247,
+        "fields": {
+            "hour": "10:00",
+            "course": 185
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13248,
+        "fields": {
+            "hour": "13:00",
+            "course": 185
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13249,
+        "fields": {
+            "hour": "10:00",
+            "course": 189
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13250,
+        "fields": {
+            "hour": "13:00",
+            "course": 189
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13251,
+        "fields": {
+            "hour": "11:00",
+            "course": 190
+        }
+    },
+    {
+        "model": "AcademicCatalogueApp.time",
+        "pk": 13252,
+        "fields": {
+            "hour": "13:00",
+            "course": 190
+        }
+    }
+]
